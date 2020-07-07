@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "fill-form": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

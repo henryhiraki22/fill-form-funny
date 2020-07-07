@@ -27,7 +27,7 @@ namespace fill_form
 
             IWebDriver driver = new ChromeDriver(chromeCapabilities);
 
-            driver.Navigate().GoToUrl(urlScraping);
+            driver.Navigate().GoToUrl(urlScraping2);
 
             try
             {
